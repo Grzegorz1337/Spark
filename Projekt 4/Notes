@@ -1,0 +1,13 @@
+Page rank
+
+Idea:
+    Mamy ileś stron, są one wierzchołkami grafu skierowanego.
+           (graf reprezentuje sieć internet, lub w zadaniu zestaw stron połączonych linkami)
+    Międzu stronami są linki, każdy link jest głosem który dajemy stronie do której przychodzi.
+    Ważność strony jest determinowana przez jej sumę głosów.
+    Głosy wychodzące ze strony j mają ważność: j/n, gdzie n jest liczbą linków wychodzących.
+
+    np jeżeli strona A ma ważność 10 i 5 linków wychodzących, to każdy z linków ma ważność 2.
+    np2. jeżeli strona B ma 3 przychodzące linki odpowienio "warte" 2, 3 i 1 głosów, to strona B dostaje ważność 6.
+
+

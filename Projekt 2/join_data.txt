@@ -1,0 +1,21 @@
+Orders  10308	1	2016-09-18
+Orders  10309	2	2016-09-19
+Orders	10310	3	2016-09-20
+Orders	10311	3	2016-09-20
+Orders	10312	3	2016-09-20
+Orders	10313	5	2016-09-20
+Customers	1	Alfreds Futterkiste 	Maria Anders 	Germany
+Customers	2	Ana Trujillo Emparedados y helados 	Ana Trujillo 	Mexico
+Customers	3	Antonio Moreno Taquería 	Antonio Moreno 	Mexico
+Customers	4	NO ORDERS	NO ORDERS	NO ORDERS
+
+1   ['Orders'  '10308'	'2016-09-18']
+1   ['Customers'	'Alfreds Futterkiste' 	'Maria Anders' 	'Germany']
+
+1 [['Orders'  '10308'	'2016-09-18'],['Customers'	'Alfreds Futterkiste' 	'Maria Anders' 	'Germany']]
+
+
+Customers	Alfreds Futterkiste 	Maria Anders 	Germany
+Customers	2	Ana Trujillo Emparedados y helados 	Ana Trujillo 	Mexico
+Customers	3	Antonio Moreno Taquería 	Antonio Moreno 	Mexico
+Customers	4	NO ORDERS	NO ORDERS	NO ORDERS

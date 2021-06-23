@@ -1,0 +1,9 @@
+Female   79628.28
+Female   250308.74
+Female   222623.66
+Female   364261.56
+Female   703451.41
+Female   645098.09
+Male     880748.50
+Male     884164.09
+Male     901607.30
